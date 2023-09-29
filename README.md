@@ -1,1 +1,1 @@
-# adding-authentication
+# events-app
